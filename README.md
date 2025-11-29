@@ -31,27 +31,26 @@ This paper analyzes the geometric assumptions underlying contemporary AI systems
 
 ## 📁 Repository Structure
 
+```text
 TCF-Topology-Cognitive-Framework/
 │
-├── docs/ # Supplemental documents (if any)
-├── papers/
-│ ├── MTPT/
-│ │ ├── MTPT_v2.pdf.pdf
-│ │ ├── citation.bib
-│ │ └── README.md
-│ │
-│ ├── Geometric-Limits/
-│ │ ├── Geometric_Limits_v1.pdf.pdf
-│ │ ├── citation.bib
-│ │ └── README.md
-│ │
-│ └── placeholder.txt
+├── docs/                        # Supplemental documents (if any)
 │
-├── README.md # This file
+├── papers/
+│   ├── MTPT/
+│   │   ├── MTPT_v2.pdf.pdf
+│   │   ├── citation.bib
+│   │   └── README.md
+│   │
+│   ├── Geometric-Limits/
+│   │   ├── Geometric_Limits_v1.pdf.pdf
+│   │   ├── citation.bib
+│   │   └── README.md
+│   │
+│   └── placeholder.txt
+│
+├── README.md                    # Main documentation
 └── LICENSE
-
-yaml
-複製程式碼
 
 ---
 
